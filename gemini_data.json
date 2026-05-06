@@ -1,0 +1,12 @@
+[
+    {
+        "id": "1",
+        "name": "Asistente Code",
+        "model": "gemini-1.5-flash",
+        "api_key": "QVBJX0tFWV9ISURERU4=",
+        "system_instruction": "Eres un experto en Python.",
+        "temperatura": 0.7,
+        "queue": ["HOLA"],
+        "stack": []
+    }
+]
