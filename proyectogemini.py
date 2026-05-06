@@ -4,6 +4,8 @@ import datetime
 import shlex
 import base64
 
+# Miguel Tovar, José Millan, José Mijares
+
 # =====================================================================
 # MÓDULO 5: Registro de Errores (Lista Enlazada Simple)[cite: 1, 3]
 # =====================================================================
